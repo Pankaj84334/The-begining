@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 Hello Everyone! How are you?
-=======
-Hello Everyone! How are you?
-<<<<<<< HEAD
->>>>>>> 04032901e78f541a1f7cd3372e9e4c51406c81f1
